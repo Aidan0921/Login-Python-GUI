@@ -1,0 +1,94 @@
+{
+  "questionLists": [
+    {
+      "q": "What area of the city is the school in?",
+      "a": "130 Depot Rd, Singapore 109708 within Bukit Merah area",
+      "k": ["location", "area", "where", "post code"]
+    },
+    {
+      "q": "What’s the closest public transport link to the school?",
+      "a": "Aft Hewlett Packard bus stop (57, 175, 195, 195A)",
+      "k": ["transport", "bus", "bus stop", "public transport"]
+    },
+    {
+      "q": "Can you recommend an area of the city to live in?",
+      "a": "Alexandra, Queenstown, Pasir Panjang",
+      "k": ["city", "live"]
+    },
+    {
+      "q": "What’s the difference between an HDB and a condo?",
+      "a": "Condo. Swimming pool, gym, tennis courts, more facilities",
+      "k": ["hbd", "condo", "difference"]
+    },
+    {
+      "q": "Do I need to be vaccinated/take lots of covid tests?",
+      "a": "Would be better if fully(including 3 jabs)",
+      "k": ["vaccine", "vaccination", "covid"]
+    },
+    {
+      "q": "Will I need to quarantine when I get there?",
+      "a": "If they arrive on a Vtl flight, no. (depends on when they come from)",
+      "k": ["quarantine"]
+    },
+    {
+      "q": "Can you recommend a bank/phone company/internet provider?",
+      "a": "Singtel , DBS bank, Singtel internet provider",
+      "k": ["bank", "phone", "internet", "internet provider"]
+    },
+    {
+      "q": "When should I arrive in Singapore?",
+      "a": "Two weeks before they start work",
+      "k": ["when", "arrive"]
+    },
+    {
+      "q": "Who is the school's MYP coordinator?",
+      "a": "Dr. Dangerfield",
+      "k": ["myp", "MYP coordinator"]
+    },
+    {
+      "q": "Who is the school's DP coordinator?",
+      "a": "Ms. Graham",
+      "k": ["dp", "dp coordinator"]
+    },
+    {
+      "q": "Who is the school's principal?",
+      "a": "Mr. Friend",
+      "k": ["principal"]
+    },
+    {
+      "q": "Who is the school's Stationery manager?",
+      "a": "Mr. Bickley",
+      "k": ["stationery"]
+    },
+    {
+      "q": "Who is the school's HR/admin staff?",
+      "a": "Suba Ramasamy",
+      "k": ["hr", "admin staff"]
+    },
+    {
+      "q": "Do everyone need to supervise CCAs?",
+      "a": "Everyone is expected to supervise CCAs",
+      "k": ["supervise", "supervisor", "cca"]
+    },
+    {
+      "q": "Covid restrictions?",
+      "a": "Wear masks all times, Must have Trace Together to access shops, buses, restaurants",
+      "k": ["restrictions", "covid", "covid restrictions", "masks"]
+    },
+    {
+      "q": "What is the reporting schedule like?",
+      "a": "3 times a year",
+      "k": ["report", "report schedule"]
+    },
+    {
+      "q": "How do teachers pay tax in Singapore?",
+      "a": "Through Singpass app",
+      "k": ["tax", "taxes"]
+    },
+    {
+      "q": "Does the school give a flight allowance?",
+      "a": "Yes they do.",
+      "k": ["flight", "allowance", "flight allowance"]
+    }
+  ]
+}
